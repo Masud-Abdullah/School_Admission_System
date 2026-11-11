@@ -1,0 +1,13 @@
+node_modules/
+dist/
+bin/
+obj/
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+TestResults/
+.env
+.env.local
+.DS_Store
